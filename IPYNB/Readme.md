@@ -1,3 +1,3 @@
 # IPYNB
 
-IPython Notebooks
+**I** **Py**thon **N**ote**b**ooks
